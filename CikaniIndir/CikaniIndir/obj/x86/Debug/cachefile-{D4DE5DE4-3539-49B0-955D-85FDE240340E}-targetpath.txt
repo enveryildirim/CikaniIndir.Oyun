@@ -1,0 +1,11 @@
+Content\nisan.xnb
+Content\Magnum.xnb
+Content\Skor.xnb
+Content\Background.xnb
+Content\bird.xnb
+Content\gameover.xnb
+Content\abla.xnb
+Content\dog.xnb
+Content\gulme.xnb
+Content\kedi.xnb
+Content\uyku.xnb

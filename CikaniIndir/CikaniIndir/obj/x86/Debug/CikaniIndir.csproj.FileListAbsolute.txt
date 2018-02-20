@@ -1,0 +1,17 @@
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\obj\x86\Debug\CikaniIndir.csprojResolveAssemblyReference.cache
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\CikaniIndir.exe
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\CikaniIndir.pdb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\obj\x86\Debug\CikaniIndir.exe
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\obj\x86\Debug\CikaniIndir.pdb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\nisan.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\Magnum.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\Skor.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\Background.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\bird.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\gameover.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\gulme.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\kedi.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\uyku.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\abla.xnb
+D:\YandexYedek\AR-GE\CikaniIndir\CikaniIndir\CikaniIndir\bin\x86\Debug\Content\dog.xnb
